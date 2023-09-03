@@ -3,7 +3,7 @@
 Uçuş arama uygulaması
 
 ### Demo Sitesi
- Adres: https://flight-search.netlify.app
+ Adres: https://flight-searcher.netlify.app
  
  (Aranabilir tarihler: 03.09.2023)
 
